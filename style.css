@@ -1,1 +1,17 @@
-link 
+#Container{
+    position: fixed;
+}
+
+.portals{
+    height: 200px;
+    margin: 30px;
+}
+
+body{
+    background-image:url(https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg);
+}
+
+#header{
+    color: white;
+    text-align: center;
+}
